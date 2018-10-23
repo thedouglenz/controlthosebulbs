@@ -1,0 +1,5 @@
+# Ignore a potential virtualenv directory
+/venv
+
+# Ignore all compiled Python scripts
+*.pyc
